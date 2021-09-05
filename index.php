@@ -38,7 +38,7 @@
                 <h3 class="masthead-brand">Afolabi Fadimu</h3>
 				<!-- NAVIGATION MENU -->
                 <nav class="nav nav-masthead justify-content-center">
-                    <a class="nav-link active" href="../views/index.html">Home</a>
+                    <a class="nav-link Active" href="../views/index.html">Home</a>
                     <a class="nav-link" href="../views/about.html">About Me</a>
                     <a class="nav-link" href="../views/portfolio.html">Portfolio</a>
                     <a class="nav-link" href="../views/diary.html">My Diary</a>
@@ -51,17 +51,16 @@
             <br/>
 			
 			<!-- BIG IMAGE ON HOMEPAGE -->
-            <img src="../images/profile.jpg" alt="My Main Image" width="500">
+            <img src="../images/profile.jpeg" alt="My Main Image" width="500">
             <br/>
             <br/>
 
             <h1 class="cover-heading">BackEnd Engineer.</h1>
 
-            <p class="lead"> I'm a multi talented, ambitious and creative super woman with the ability to write amazing computer programs. Write something cool about yourself here - 165 Character max
-            </p>
+            <p class="lead">A resilient, focused, and passionate IT security professional seeking to use my professional knowledge and experience in helping to transform clients' IT infrastructure, operations, and applications to the most innovative, scalable, highly available, secured, fault tolerant and cost effective on security solutions.</p>
 			
             <p class="lead">
-                <a href="[CHANGE ME - LINK ME TO CONTACT PAGE]" class="btn btn-lg btn-secondary">Hire Me<br/></a>
+                <a href="../views/contact.html" class="btn btn-lg btn-secondary">Hire Me<br/></a>
                 <br/>
             </p>
 			
@@ -69,7 +68,8 @@
 
         <footer class="mastfoot mt-auto">
             <div class="inner">
-                <p>Cover template for <a href="https://getbootstrap.com/">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+                <!-- INSERT SOMETHING HERE AS A FOOT NOTE -->
+                      <p></p>
             </div>
         </footer>
 
