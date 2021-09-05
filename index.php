@@ -51,7 +51,7 @@
             <br/>
 			
 			<!-- BIG IMAGE ON HOMEPAGE -->
-            <img src="../images/profile.jpeg" alt="My Main Image" width="500">
+            <img src="../images/profile.jpeg" alt="My Main Image" width="350">
             <br/>
             <br/>
 
