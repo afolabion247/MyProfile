@@ -24,6 +24,10 @@ a:hover {
  * Base structure
  */
 
+li{
+  text-align: left;
+}
+
 html,
 body {
   height: 100%;

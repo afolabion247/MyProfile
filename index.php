@@ -55,12 +55,12 @@
             <br/>
             <br/>
 
-            <h1 class="cover-heading">BackEnd Engineer.</h1>
+            <h1 class="cover-heading">DevOps Security Engineer</h1>
 
-            <p class="lead">A resilient, focused, and passionate IT security professional seeking to use my professional knowledge and experience in helping to transform clients' IT infrastructure, operations, and applications to the most innovative, scalable, highly available, secured, fault tolerant and cost effective on security solutions.</p>
+            <p class="lead">I am IT security professional who is willing to use my skills and experience to transform clients' IT infrastructure, operations, and applications to the most innovative, scalable, highly available, secured, fault tolerant and cost effective security solutions.</p>
 			
             <p class="lead">
-                <a href="../views/contact.html" class="btn btn-lg btn-secondary">Hire Me<br/></a>
+                <a href="../views/about.html" class="btn btn-lg btn-secondary">About Me<br/></a>
                 <br/>
             </p>
 			
